@@ -30,6 +30,9 @@ and transforming creative ideas into reality through the power of code.
 ## <strong> Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyangbari&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## <strong> Contribution Snake
+![snake](https://raw.githubusercontent.com/nyangbari/Nyangbari/output/github-contribution-grid-snake.svg)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&height=120&section=footer)
 
 </div>
